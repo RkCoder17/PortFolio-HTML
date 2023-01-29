@@ -169,7 +169,7 @@ font-size:70px ;
 .navbar a{
   color: white;
   font-family: sans-serif;
-  font-size: 17px;
+  font-size: 16px;
   padding: 12px;
   text-decoration: none;
 }
@@ -177,7 +177,7 @@ font-size:70px ;
 .navbar a:hover{
   color: #4db5ff;
   font-family: sans-serif;
-  font-size: 17px;
+  font-size: 20px;
   padding: 12px;
   text-decoration: none;
 }
