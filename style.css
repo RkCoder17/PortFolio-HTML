@@ -201,18 +201,6 @@ font-size:70px ;
   margin-right: 100px;
   margin-left: 20px;
 }
-
-.programming-icons:hover
-{
-  height:120px;
-  left:30px;
-  position: relative;
-  top:60px;
-  margin-bottom: 20px;
-  margin-right: 100px;
-  margin-left: 20px;
-}
-
  .project {
   background-color:#16213E;
   border-radius:15px;
